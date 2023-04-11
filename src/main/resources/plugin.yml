@@ -1,0 +1,12 @@
+main: de.amondev.strider.Strider
+name: strider-sample
+version: 1.0
+
+commands:
+
+  init:
+    aliases:
+      - initial
+  thread:
+    aliases:
+      - generate
